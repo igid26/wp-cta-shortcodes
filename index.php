@@ -274,8 +274,3 @@ $obsah = '
 return $obsah;
 
 }
-
-
-
-
-?>
