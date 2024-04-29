@@ -1,0 +1,45 @@
+.cta-box {
+width: 100%;
+display: block;
+background-color: #FFFFFF;
+box-shadow: 0px 0px 50px 0px rgb(0 0 0 / 8%);
+transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+padding: 40px 65px 40px 65px;
+border-radius: 15px 15px 15px 15px;
+position: relative;
+margin-bottom: 100px;
+margin:20px 0px;
+}
+
+.sirka-60 {
+width:65%;
+padding-right:5%;
+}
+
+.sirka-30 {
+width:33%;
+text-align:right;
+}
+
+.sirka-60,
+.sirka-30 {
+display:inline-block;
+vertical-align:middle;
+}
+
+.tlacidlo-new {
+background:#000;
+padding:20px 30px;
+color:#fff;
+}
+
+.sirka-60 h2{
+margin:20px 0 0 0 !important;
+}
+
+.cta-box.pod .sirka-60,
+.cta-box.pod .sirka-30{
+width:100%;
+padding:0px;
+text-align:left;
+}
